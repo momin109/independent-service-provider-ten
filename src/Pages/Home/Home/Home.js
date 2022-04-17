@@ -1,6 +1,7 @@
 import React from 'react';
 import FoodGallery from '../FoodGallery/FoodGallery/FoodGallery';
 
+
 import Foods from '../Services/Foods/Foods';
 
 

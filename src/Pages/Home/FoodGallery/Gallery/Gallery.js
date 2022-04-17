@@ -1,10 +1,11 @@
 import React from 'react';
 
 const Gallery = ({ gallery }) => {
-    const { img } = gallery
+    const { img, name } = gallery
     return (
         <div>
-            {img}
+            <h1>{name}</h1>
+            <img src={img} alt="" />
         </div>
     );
 };
