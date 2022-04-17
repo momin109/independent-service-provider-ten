@@ -1,0 +1,30 @@
+.foods-title {
+    text-align: center;
+    color: blue;
+}
+
+.foods-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.foods-container img {
+    height: 250px;
+    width: 350px;
+    border-radius: 8px;
+}
+
+/*make foods responsive */
+
+@media only screen and (max-width:576px) {
+    .foods-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+
+@media only screen and (min-width: 577px) and (max-width:992px) {
+    .foods-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

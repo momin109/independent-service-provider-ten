@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Headphone",
+        "price": 30,
+        "img": "https://i.ibb.co/j8GBMMG/p04tx3m6.jpg",
+        "description": "Top view table full of food Sharing dinner with friends"
+    },
+    {
+        "id": "2",
+        "name": "on Ear Headphone",
+        "price": 26,
+        "img": "https://i.ibb.co/j8GBMMG/p04tx3m6.jpg",
+        "description": "Top view table full of food Sharing dinner with friends"
+    },
+    {
+        "id": "3",
+        "name": "over ear headphone",
+        "price": 25,
+        "img": "https://i.ibb.co/j8GBMMG/p04tx3m6.jpg",
+        "description": "Top view table full of food Sharing dinner with friends"
+    },
+    {
+        "id": "4",
+        "name": "iphone-12",
+        "price": 320,
+        "img": "https://i.ibb.co/j8GBMMG/p04tx3m6.jpg",
+        "description": "Top view table full of food Sharing dinner with friends"
+    },
+    {
+        "id": "5",
+        "name": "oppo",
+        "price": 120,
+        "img": "https://i.ibb.co/j8GBMMG/p04tx3m6.jpg",
+        "description": "Top view table full of food Sharing dinner with friends"
+    },
+    {
+        "id": "6",
+        "name": "samsung",
+        "price": 150,
+        "img": "https://i.ibb.co/j8GBMMG/p04tx3m6.jpg",
+        "description": "Top view table full of food Sharing dinner with friends"
+    }
+]
