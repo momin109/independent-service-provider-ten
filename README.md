@@ -1,6 +1,6 @@
 # Infinity food
 
-Live website link : (https://app.netlify.com/sites/starlit-douhua-3c9515/overview)
+Live website link : (https://starlit-douhua-3c9515.netlify.app/)
 
 ## this is project I used :
 - create new firebase project 
