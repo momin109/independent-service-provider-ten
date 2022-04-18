@@ -53,8 +53,13 @@ const Login = () => {
 
     const resetPassword = async () => {
         const email = emailRef.current.value;
-        await sendPasswordResetEmail(email);
-        alert('Sent Email')
+        if (email) {
+            await sendPasswordResetEmail(email);
+            toast('Sent Email')
+        }
+        else {
+            toast('please enter your email address')
+        }
     }
 
 
@@ -81,7 +86,7 @@ const Login = () => {
             </Form>
             {errorElement}
             <p>new an account <Link to='/register' className='text-primary pe-auto text-decoration-none' onClick={navigateRegister}>please register</Link></p>
-            <p>Forget Password? <Link to='/register' className='text-primary pe-auto text-decoration-none' onClick={resetPassword}>Reset password</Link></p>
+            <p>Forget Password? <button className='btn btn-link text-primary pe-auto text-decoration-none' onClick={resetPassword}>Reset password</button></p>
             <SocialLogin></SocialLogin>
             <ToastContainer />
         </div>
