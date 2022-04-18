@@ -1,5 +1,6 @@
 import React from 'react';
-import FoodGallery from '../FoodGallery/FoodGallery/FoodGallery';
+import Banner from '../Banner/Banner';
+
 
 
 import Foods from '../Services/Foods/Foods';
@@ -9,10 +10,11 @@ import Foods from '../Services/Foods/Foods';
 
 const Home = () => {
     return (
-        <div>
+        <>
+            <Banner></Banner>
             <Foods></Foods>
-            <FoodGallery></FoodGallery>
-        </div>
+
+        </>
     );
 };
 

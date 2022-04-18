@@ -1,44 +1,44 @@
 [
     {
         "id": "1",
-        "name": "Headphone",
+        "name": "junk food",
         "price": 30,
         "img": "https://i.ibb.co/j8GBMMG/p04tx3m6.jpg",
-        "description": "Top view table full of food Sharing dinner with friends"
+        "description": "High junk food consumption in childhood increases risk of unhealthy body fat by early adulthood"
     },
     {
         "id": "2",
-        "name": "on Ear Headphone",
+        "name": "vegan food",
         "price": 26,
-        "img": "https://i.ibb.co/j8GBMMG/p04tx3m6.jpg",
-        "description": "Top view table full of food Sharing dinner with friends"
+        "img": "https://i.ibb.co/yFpGsfB/Vegan-Food.jpg",
+        "description": "We talked to Maya Pereira Sawant, a personal trainer, metabolic nutritionist, and founder"
     },
     {
         "id": "3",
-        "name": "over ear headphone",
+        "name": "fresh food",
         "price": 25,
-        "img": "https://i.ibb.co/j8GBMMG/p04tx3m6.jpg",
-        "description": "Top view table full of food Sharing dinner with friends"
+        "img": "https://i.ibb.co/Jtk8bjQ/1542657714042.jpg",
+        "description": "Farm Fresh To You, one of the nation’s leading Community Supported Agriculture "
     },
     {
         "id": "4",
-        "name": "iphone-12",
+        "name": "Junk Foods",
         "price": 320,
-        "img": "https://i.ibb.co/j8GBMMG/p04tx3m6.jpg",
-        "description": "Top view table full of food Sharing dinner with friends"
+        "img": "https://i.ibb.co/LrY6tkn/gallery5.jpg",
+        "description": "We talked to Maya Pereira Sawant, a personal trainer, metabolic nutritionist, and founder"
     },
     {
         "id": "5",
-        "name": "oppo",
+        "name": "Ban on junk food",
         "price": 120,
-        "img": "https://i.ibb.co/j8GBMMG/p04tx3m6.jpg",
-        "description": "Top view table full of food Sharing dinner with friends"
+        "img": "https://i.ibb.co/JcyrKnR/gallery6.jpghttps://i.ibb.co/ZcDTtHd/gallery8.jpg",
+        "description": "Whether you find yourself grabbing a handful of candy at the movies or making a beeline for the chips"
     },
     {
         "id": "6",
-        "name": "samsung",
+        "name": "junk food",
         "price": 150,
-        "img": "https://i.ibb.co/j8GBMMG/p04tx3m6.jpg",
-        "description": "Top view table full of food Sharing dinner with friends"
+        "img": "https://i.ibb.co/ZcDTtHd/gallery8.jpg",
+        "description": "Many children in America eat large amounts of junk food, and this can cause health problems."
     }
 ]

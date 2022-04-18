@@ -1,6 +1,8 @@
 .foods-title {
     text-align: center;
     color: blue;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .foods-container {

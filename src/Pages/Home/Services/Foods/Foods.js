@@ -13,7 +13,7 @@ const Foods = () => {
     }, [])
 
     return (
-        <div>
+        <div id='foods' className=''>
             <h1 className='foods-title'>Most Popular foods</h1>
             <div className='foods-container'>
                 {
