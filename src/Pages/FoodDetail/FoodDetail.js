@@ -7,7 +7,7 @@ const FoodDetail = () => {
         <div>
             <h2>wellcome to fooddeatil: {foodId}</h2>
             <div className='text-center'>
-                <Link to="checkout">
+                <Link to="/checkout">
                     <button className='btn btn-primary'>Proceed Checkout</button>
                 </Link>
             </div>
