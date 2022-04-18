@@ -4,6 +4,7 @@ import './App.css';
 import About from './Pages/About/About';
 import Checkout from './Pages/Checkout/Checkout/Checkout';
 import FoodDetail from './Pages/FoodDetail/FoodDetail';
+import Blogs from './Pages/Home/Home/Blogs/Blogs';
 
 
 import Home from './Pages/Home/Home/Home';
@@ -24,7 +25,7 @@ function App() {
         <Route path='/home' element={<Home></Home>}></Route>
         <Route path='/food/:foodId' element={<FoodDetail></FoodDetail>}></Route>
         <Route path='/about' element={<About></About>}></Route>
-
+        <Route path='/blogs' element={<Blogs></Blogs>}></Route>
         <Route path='/login' element={<Login></Login>}></Route>
         <Route path='/register' element={<Register></Register>}></Route>
         <Route path='/checkout' element={
