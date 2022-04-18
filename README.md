@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Infinity food
 
-Live website link : [Infinity food](https://app.netlify.com/sites/starlit-douhua-3c9515/overview).
+Live website link : (https://app.netlify.com/sites/starlit-douhua-3c9515/overview)
 
 ## this is project I used :
 - create new firebase project 
